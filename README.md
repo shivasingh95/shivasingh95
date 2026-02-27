@@ -1,160 +1,124 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=9D4EDD&vCenter=true&width=950&lines=Hi,+I'm+Shiva+Singh;ECE+Undergraduate+%7C+AI+%26+Cybernetics;Embedded+%7C+VLSI+%7C+AI-Integrated+Systems;Building+Intelligent+Hardware+Solutions" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Shiva%20Singh&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ShivaSingh&label=Profile%20views&color=1F6FEB&style=flat" />
-  <img src="https://img.shields.io/github/followers/ShivaSingh?label=Followers&style=flat&color=success" />
-  <img src="https://img.shields.io/github/stars/ShivaSingh?label=Stars&style=flat&color=yellow" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=VLSI+Design+Engineer;AI+Hardware+Architect;Embedded+Intelligence+Systems;300%2B+DSA+Problems+Solved" />
 </p>
 
-<h3 align="center">ECE (AI & Cybernetics) | Embedded • VLSI • Intelligent Systems 🇮🇳</h3>
-
----
-
-## 👨‍💻 About Me
-
-I’m **Shiva Singh**, a **B.Tech Electronics & Communication Engineering undergraduate** specializing in  
-**Artificial Intelligence & Cybernetics** at **VIT Bhopal University**.
-
-I have **strong fundamentals in Core ECE** along with hands-on experience in **embedded systems, simulations, and AI-driven software solutions**. My interests lie in building systems where **hardware intelligence meets software logic**.
-
-I am actively seeking **VLSI / Core ECE / Embedded / AI-integrated hardware internships**.
-
----
-
-## 🎓 Education
-
-**B.Tech – Electronics & Communication Engineering (AI & Cybernetics)**  
-📍 VIT Bhopal University  
-📅 2024 – Present  
-🎯 **CGPA: 9.4**
-
-**Class XII – MP Board (CM RISE Badwara)**  
-🎯 **95.2%**
-
-**Class X – MP Board (CM RISE Badwara)**  
-🎯 **93%**
-
----
-
-## 🚀 Selected Projects
-
-### 🔔 Beacon Guard – ESP32 Based Personal Safety System
-**Embedded Systems | AI-assisted Hardware**
-
-- Designed a **wearable emergency alert device** using **ESP32**
-- Implemented **dual trigger mechanism**:
-  - Physical push button
-  - Voice command using **Elechouse VR3** (“HELP” keyword)
-- Integrated **NEO-6M GPS** with intelligent fallback to smartphone GPS
-- Established **BLE communication** between ESP32 and Android app
-- Android app sends **SMS alerts with live Google Maps location**
-- Designed to work reliably in **low-internet environments**
-
-**Tech Stack:**  
-ESP32, Arduino (C++), BLE, GPS, Embedded Systems, MIT App Inventor
-
----
-
-### 💬 Sentiment & Emotion Analysis Web App
-**AI | NLP | Web**
-
-- Built a **Flask-based AI web application**
-- Implemented **multilingual sentiment analysis**
-- Added **emotion classification with visual analytics**
-
-**Tech Stack:**  
-Python, Flask, Scikit-learn
-
----
-
-### 🤖 Crew AI Agent for Fraud Detection
-**Agentic AI | Intelligent Systems**
-
-- Developed an **autonomous AI agent pipeline**
-- Focused on **decision-making workflows** for fraud detection
-- Worked with multi-agent task orchestration concepts
-
----
-
-## 🧠 Technical Skills
-
-### 🔌 Core ECE / VLSI
-- Digital Logic Design  
-- CMOS Basics  
-- VLSI Fundamentals  
-- Signals & Systems  
-- Analog Circuits  
-- Cybernetics  
-
-### 🧩 Embedded Systems
-- ESP32, Arduino  
-- Sensors  
-- UART Communication  
-- BLE Communication  
-
-### 🧪 Simulation Tools
-- Logic-Sim  
-- MATLAB  
-- Simulink  
-
-### 🤖 AI & Software
-- Agentic AI  
-- Machine Learning Basics  
-- Deep Learning Basics (Oracle)  
-- Scikit-learn  
-- TensorFlow (Introductory)
-
-### 💻 Programming
-- C  
-- C++  
-- Python  
-- Java (Basics with OOP concepts)
-
-### 🌐 Frontend & Tools
-- HTML, CSS, Basic JavaScript  
-- Flask  
-- Git & GitHub  
-
----
-
-## 🏆 Certifications & Achievements
-
-- 🥇 **District Topper Award** – Scooty awarded by Govt. of Madhya Pradesh  
-- 🏆 **Winner – Frystgen Hackathon (VIT AP)**  
-- 💻 Solved **50+ coding problems** on CodeChef  
-- 📘 **Python Essentials** – Cisco (Ongoing)  
-- 🤖 **ML Basics** – Coursera  
-- 🔥 Completed **50-Day Coding Challenge** (#DrGViswanathan)
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivaSingh&theme=tokyonight" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivaSingh&theme=tokyonight" />
+<p align="center">
+  <img src="https://img.shields.io/badge/VLSI-Design-0A66C2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-Hardware-1F6FEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded-Systems-2EA043?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine-Learning-F7B500?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## Profile
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaSingh&theme=tokyo-night&hide_border=true" />
+Electronics & Communication Engineering undergraduate  
+Specialization: Artificial Intelligence & Cybernetics  
+VIT Bhopal University  
+CGPA: 9.4  
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivaSingh&theme=tokyonight" />
+Focused on architecting intelligent systems where  
+algorithms, circuits, and embedded platforms converge.
+
+Actively seeking roles in:
+
+• VLSI Design  
+• AI Accelerators  
+• Embedded ML  
+• Hardware-Software Co-Design  
 
 ---
 
-## 🤝 Connect With Me
+## Technical Architecture
 
-- 📧 **Email:** shiva.24bac10057@vitbhopal.ac.in  
-- 🔗 **LinkedIn:** (www.linkedin.com/in/thakur-shiva-singh-173467324)  
-- 💻 **GitHub:** (https://github.com/shivasingh95)
+### VLSI & Digital Systems
+- CMOS Fundamentals  
+- Sequential & Combinational Circuit Design  
+- FSM Design  
+- Timing Concepts (Setup/Hold – Theoretical)  
+- Hardware Optimization Awareness  
+
+### Embedded Systems
+- ESP32 Development  
+- BLE / UART Communication  
+- Sensor Integration  
+- Real-Time Event-Driven Architecture  
+
+### Machine Learning
+- Supervised Learning Models  
+- Neural Network Fundamentals  
+- Model Evaluation & Optimization  
+- Edge Deployment Concepts  
+
+### Data Structures & Algorithms
+- 300+ Problems Solved  
+- Strong in Graphs, Trees, DP, Greedy  
+- Time & Space Complexity Analysis  
+- Competitive Coding Experience  
 
 ---
 
-## 🎯 Interests
-**VLSI Design | Embedded Systems | AI-Integrated Hardware | Coding Challenges | Cricket**
+## Selected Engineering Work
+
+### Beacon Guard – Embedded AI Safety System
+Designed real-time embedded architecture using ESP32.  
+Implemented BLE communication pipeline and GPS fallback logic.  
+Focused on reliability, low-latency triggering, and memory efficiency.
+
+### Lightweight Edge ML Classifier
+Built compact ML model analyzing accuracy vs inference trade-offs.  
+Studied deployment constraints for microcontroller-level execution.
+
+### Sentiment & Emotion Analysis Engine
+Developed modular Flask backend with ML pipeline integration.
+
+---
+
+## Competitive Coding Profiles
+
+- LeetCode – 300+ Problems  
+- Codeforces – Contest Participation  
+- GeeksforGeeks – Active Contributor  
+- CodeChef – 50+ Problems  
+
+---
+
+## Research Interests
+
+AI Accelerators  
+Low-Power VLSI  
+Hardware-Aware Machine Learning  
+Edge Intelligence Systems  
+Neuromorphic Computing  
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivasingh95&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivasingh95&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivasingh95&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## Connect
+
+Email: shiva.24bac10057@vitbhopal.ac.in  
+LinkedIn: https://www.linkedin.com/in/thakur-shiva-singh-173467324  
+GitHub: https://github.com/shivasingh95  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=footer"/>
+</p>
