@@ -1,387 +1,185 @@
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0D2137,100:112240&height=230&section=header&text=Shiva%20Singh&fontSize=52&fontColor=CCD6F6&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%E2%80%A2%20VLSI%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20RF%20%26%20Antenna&descSize=14&descFontColor=64FFDA&descAlignY=60"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:102A43,100:00BFA6&height=220&section=header&text=Shiva%20Singh&fontSize=54&fontColor=EAF4F4&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20%7C%20Embedded%20AI%20%7C%20Computer%20Vision&descSize=15&descColor=B8FFF1&descAlignY=60" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Embedded+C+%7C+Firmware+%7C+Driver+Development;Assembly+%7C+Microcontrollers+%7C+Raspberry+Pi+%7C+ESP32;Deep+Learning+%7C+CNN+%7C+RNN+%7C+LSTM+%7C+TFLite;Computer+Vision+%7C+OpenCV+%7C+Real-time+Inference;Multimedia+%7C+Audio+DSP+%7C+Image+%26+Video+Processing;HFSS+Antenna+Design+%7C+EMT+%7C+RF+%7C+S-Parameters;VLSI+%7C+CMOS+%7C+FSM+%7C+Digital+Logic+%7C+Timing" />
-</p>
+### Building intelligent systems at the intersection of **electronics, embedded systems and AI**
 
-<p align="center">
-  <a href="https://github.com/shivasingh95"><img src="https://img.shields.io/badge/GitHub-shivasingh95-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA"/></a>
-  <a href="https://www.linkedin.com/in/thakur-shiva-singh-173467324"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/SHIVA__SINGH07/"><img src="https://img.shields.io/badge/LeetCode-SHIVA__SINGH07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="mailto:shiva.24bac10057@vitbhopal.ac.in"><img src="https://img.shields.io/badge/Email-Contact-64FFDA?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-shivasingh95-111827?style=for-the-badge&logo=github)](https://github.com/shivasingh95)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thakur-shiva-singh-173467324)
+[![LeetCode](https://img.shields.io/badge/LeetCode-SHIVA__SINGH07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SHIVA__SINGH07/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiva.24bac10057@vitbhopal.ac.in)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivasingh95&color=64ffda&style=flat-square&label=Profile+Views"/>
-</p>
+</div>
 
 ---
 
-## `$ cat engineer_profile.c`
+## `whoami`
 
-```c
-/*
- * engineer_profile.h  —  Shiva Singh
- * VIT Bhopal University · B.Tech ECE (AI & Cybernetics) · CGPA: 9.4
- */
+I'm **Shiva Singh**, an Electronics and Communication Engineering undergraduate at **VIT Bhopal University**, specializing in **Artificial Intelligence & Cybernetics**.
 
-typedef struct {
-    const char  *name;
-    const char  *university;
-    const char  *degree;
-    float        cgpa;
-    const char  *domains[7];
-    const char  *tools[8];
-    status_t     status;
-} engineer_t;
+- 🎓 **Degree:** B.Tech, Electronics & Communication Engineering
+- 🏛️ **University:** VIT Bhopal University
+- 📊 **CGPA:** 9.4
+- 🧠 **Interests:** Embedded Systems, VLSI, Edge AI, Computer Vision and intelligent hardware
+- 🏆 **Achievement:** Winner, 50 Days Coding Challenge
+- 🎯 **Current direction:** Strengthening core electronics and programming while building practical hardware-software projects
 
-const engineer_t me = {
-    .name        = "Shiva Singh",
-    .university  = "VIT Bhopal University",
-    .degree      = "B.Tech ECE — Artificial Intelligence & Cybernetics",
-    .cgpa        = 9.4f,
-    .domains     = {
-                    "Embedded C & Firmware Design",
-                    "Assembly Language (ARM / x86)",
-                    "VLSI & Digital Logic",
-                    "Deep Learning (CNN · RNN · LSTM)",
-                    "Computer Vision (OpenCV · Real-time)",
-                    "Multimedia Processing (Audio · Video · Image)",
-                    "RF & Antenna Design (HFSS)"
-                   },
-    .tools       = {
-                    "ESP32", "Raspberry Pi", "HFSS", "TensorFlow",
-                    "OpenCV", "Flask", "TFLite Micro", "Python"
-                   },
-    .status      = ACTIVELY_SEEKING_ROLES,   /* Embedded · VLSI · CV · AI Hardware */
-};
-```
+I enjoy taking ideas beyond notebooks and simulations: connecting sensors, writing firmware, training models, deploying inference on edge devices, and building interfaces that make systems usable.
 
-> I write firmware on bare metal, design antennas in HFSS, train CNNs and LSTMs,
-> process multimedia signals, and deploy models to the edge.
-> **Goal:** build intelligent, resource-aware systems that work in the real world.
+> **My engineering focus:** Turning computation into useful systems that interact with the physical world.
 
 ---
 
-## ⚡ Technical Stack
+## 🔬 Technical interests
 
-### 🔩 Embedded C & Firmware *(Core Focus)*
+| Area | What I'm working with |
+|---|---|
+| Embedded systems | ESP32, STM32F407, Arduino, GPIO, UART, I2C, SPI, sensor integration |
+| Edge AI & ML | CNNs, TensorFlow/Keras, model evaluation, quantization and deployment |
+| Computer vision | OpenCV, image preprocessing, classification, camera-based inference |
+| Electronics | Digital logic, DLD, analog electronics, microcontrollers and interfacing |
+| VLSI foundations | CMOS concepts, logic design, sequential circuits and timing fundamentals |
+| Software development | Python, C/C++, Java, JavaScript, React, Vite and Flask |
+| Data & backend | Firebase, REST APIs, NumPy, Pandas and Matplotlib |
+| Engineering tools | STM32CubeIDE, Arduino IDE, Google Colab, VS Code, Roboflow and Git/GitHub |
 
-<p>
-<img src="https://img.shields.io/badge/C-Embedded Programming-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/HAL-Driver Architecture-0A66C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/ISR-Interrupt Design-1565C0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Protocols-UART·SPI·I2C·BLE-1976D2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Memory-Static Allocation-0288D1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Bare--Metal-Firmware-003B6F?style=flat-square"/>
-</p>
-
-```
-Bit Manipulation · Register-Level I/O · GPIO / Timer / ADC / PWM
-Peripheral Driver Development · Layered HAL · ISR & Debouncing
-Embedded Software Design Patterns · Startup Code · Static Memory
-```
-
-### 🖥️ Assembly Language & Low-Level
-
-<p>
-<img src="https://img.shields.io/badge/ARM-Cortex Instructions-6D4C41?style=flat-square"/>
-<img src="https://img.shields.io/badge/x86-Assembly Basics-795548?style=flat-square"/>
-<img src="https://img.shields.io/badge/Inline-Assembly in C-8D6E63?style=flat-square"/>
-<img src="https://img.shields.io/badge/Stack-Frames & Calling Convention-A1887F?style=flat-square"/>
-<img src="https://img.shields.io/badge/ISA-Instruction Set Architecture-BCAAA4?style=flat-square"/>
-</p>
-
-```
-ARM Cortex-M Instructions · Data Movement · Arithmetic & Logic Ops
-Stack Operations · Subroutine Calls · Memory Addressing Modes
-Understanding Compiler Output · Low-Level Debugging
-```
-
-### 📡 Microcontrollers & Single-Board Computers
-
-<p>
-<img src="https://img.shields.io/badge/ESP32-Espressif-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry Pi-Linux SBC-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/BLE-Wireless-0082FC?style=flat-square&logo=bluetooth&logoColor=white"/>
-<img src="https://img.shields.io/badge/GPS-Fallback Logic-2EA043?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sensor-Fusion-00897B?style=flat-square"/>
-</p>
-
-```
-ESP32 · Raspberry Pi · GPIO / ADC / PWM / UART / SPI / I2C
-BLE & Wi-Fi · GPS · Sensor Integration · Event-Driven Architecture
-Linux on Embedded Boards · Python + C on RPi
-```
-
-### 🧠 Deep Learning & Neural Networks
-
-<p>
-<img src="https://img.shields.io/badge/ANN-Fully Connected-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/CNN-Convolutional Networks-F57C00?style=flat-square"/>
-<img src="https://img.shields.io/badge/RNN%20%7C%20LSTM-Sequence Modeling-EF6C00?style=flat-square"/>
-<img src="https://img.shields.io/badge/TensorFlow-Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/TFLite Micro-Edge Deploy-FFA000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backpropagation-Optimization-FB8C00?style=flat-square"/>
-</p>
-
-```
-ANN · CNN (conv layers, pooling, feature maps, classification)
-RNN / LSTM (sequence modeling, emotion, NLP tasks)
-TensorFlow · Keras · Model Training & Evaluation
-Quantization · INT8 · TFLite Micro for MCU deployment
-```
-
-### 👁️ Computer Vision
-
-<p>
-<img src="https://img.shields.io/badge/OpenCV-Real--time Vision-5C6BC0?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/CNN Inference-Image Classification-3949AB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Object-Detection Pipelines-283593?style=flat-square"/>
-<img src="https://img.shields.io/badge/Edge-Deployment on RPi-1A237E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Feature-Extraction-303F9F?style=flat-square"/>
-</p>
-
-```
-Image Preprocessing · Edge Detection · Morphological Ops
-CNN Feature Maps · Object Detection & Classification
-Real-time Pipeline on Raspberry Pi Camera
-Contour Analysis · Filtering · Threshold Segmentation
-```
-
-### 🎬 Multimedia Processing
-
-<p>
-<img src="https://img.shields.io/badge/Audio-DSP & Feature Extraction-1A237E?style=flat-square"/>
-<img src="https://img.shields.io/badge/MFCC-Spectrograms-3949AB?style=flat-square"/>
-<img src="https://img.shields.io/badge/FFT-Frequency Analysis-283593?style=flat-square"/>
-<img src="https://img.shields.io/badge/FIR%20%7C%20IIR-Digital Filters-1565C0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Video-Frame Processing-0D47A1?style=flat-square"/>
-</p>
-
-```
-Audio Feature Extraction · MFCC · Spectrograms · Pitch & Rhythm Analysis
-Image Filtering & Segmentation · Morphological Processing
-Video Frame Analysis · Motion Detection
-FFT · Convolution · FIR / IIR Filters · Windowing Functions
-```
-
-### 📻 RF, EMT & Antenna Design (HFSS)
-
-<p>
-<img src="https://img.shields.io/badge/HFSS-Ansys Simulation-D32F2F?style=flat-square"/>
-<img src="https://img.shields.io/badge/Patch-Microstrip Antenna-C62828?style=flat-square"/>
-<img src="https://img.shields.io/badge/S11-Return Loss Analysis-B71C1C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Radiation-Pattern & Gain-E53935?style=flat-square"/>
-<img src="https://img.shields.io/badge/EMT-Maxwell's Equations-EF5350?style=flat-square"/>
-<img src="https://img.shields.io/badge/Impedance-Matching-F44336?style=flat-square"/>
-</p>
-
-```
-Electromagnetic Theory · Maxwell's Equations · Wave Propagation
-Patch / Microstrip Antenna Design & Simulation in HFSS
-S-Parameters · S11 Return Loss · Radiation Pattern · Gain Analysis
-Transmission Lines · Impedance Matching · RF Propagation
-```
-
-### 🔬 VLSI & Digital Logic
-
-<p>
-<img src="https://img.shields.io/badge/CMOS-Circuit Fundamentals-5E35B1?style=flat-square"/>
-<img src="https://img.shields.io/badge/FSM-Mealy & Moore-7B1FA2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Digital Logic-Gates · Flip--Flops · MUX-8E24AA?style=flat-square"/>
-<img src="https://img.shields.io/badge/Timing-Setup · Hold · Prop. Delay-9C27B0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Combinational-Adder · ALU · Decoder-AB47BC?style=flat-square"/>
-<img src="https://img.shields.io/badge/K--Maps-Logic Minimization-BA68C8?style=flat-square"/>
-</p>
-
-```
-Boolean Algebra · Karnaugh Maps · Logic Minimization
-Combinational: Adders · Multiplexers · Encoders · ALU
-Sequential: Flip-Flops · Counters · Shift Registers · FSM (Mealy/Moore)
-CMOS Inverter · NAND/NOR · Propagation Delay · Power Dissipation
-```
+*This list reflects a mix of hands-on experience, coursework and topics I'm actively developing. It is not intended as a claim of expert-level proficiency in every area.*
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 1. Smart Digital Daan-Peti | IoT + Computer Vision
 
-### 🛡️ Beacon Guard
-**Embedded AI Safety System**
+An intelligent donation-box concept combining physical cash handling, currency recognition and digital donation support.
 
-Real-time safety system on ESP32 with BLE pipeline and GPS fallback. Low-latency ISR-driven event architecture, memory-efficient design, and reliable operation under constrained resources.
+- Developed two CNN workflows: denomination classification and real/fake currency classification.
+- Trained MobileNetV2-based models using image datasets prepared through Roboflow.
+- Achieved approximately **87.69% test accuracy** for denomination classification and **97.2% test accuracy** for real/fake classification in the reported experiments.
+- Worked on Raspberry Pi camera inference and model deployment.
+- Designed the wider system around sensors, controller hardware, donation logging and digital payment integration.
 
-`ESP32` `Embedded C` `BLE` `UART` `GPS` `ISR` `Event-Driven`
+**Technology:** Python · TensorFlow/Keras · CNN · MobileNetV2 · OpenCV · Roboflow · Raspberry Pi · Arduino · IoT
 
-</td>
-<td width="50%" valign="top">
+### 2. Smart Helmet | Embedded IoT Safety System
 
-### 📡 Antenna Design — HFSS
-**Patch & Microstrip Simulation**
+A connected safety-system prototype built around an ESP32 and sensor modules.
 
-Designed and simulated microstrip patch antennas in Ansys HFSS. Optimized geometry for target frequency bands. Analyzed S11 return loss, radiation pattern, gain, and impedance matching.
+- Integrated GPS for location acquisition.
+- Explored GSM communication using SIM800L.
+- Used MPU6050 motion sensing as part of the safety-event workflow.
+- Worked on the hardware connections and the logic needed to coordinate sensor inputs and communication.
 
-`HFSS` `Patch Antenna` `S-parameters` `Return Loss` `EMT` `RF`
+**Technology:** ESP32 · Embedded C/C++ · GPS NEO-6M · SIM800L · MPU6050 · UART · IoT
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 3. Smart Privacy Filter | React + Firebase
 
-### 👁️ Computer Vision Pipeline
-**CNN + Real-time Inference on RPi**
+A web application project focused on privacy-oriented functionality.
 
-CNN-based image classifier deployed on Raspberry Pi with live camera input. Real-time OpenCV preprocessing pipeline feeding TFLite inference engine.
+- Built the frontend using React and Vite.
+- Worked with Firebase for backend services and application integration.
+- Organized development for a collaborative web team workflow.
 
-`CNN` `OpenCV` `Raspberry Pi` `TFLite` `Python` `Real-time`
+**Technology:** React · Vite · JavaScript · Firebase · HTML · CSS
 
-</td>
-<td width="50%" valign="top">
+### 4. STM32 Password-Based Security System
 
-### 🎵 Sentiment & Emotion Engine
-**Multimodal NLP + Audio Backend**
+A microcontroller-based access-control prototype using a keypad and sensors.
 
-Flask backend with RNN/LSTM pipeline for sentiment and emotion classification. Processes both text tokens and audio MFCC features for multimodal emotion recognition.
+- Developed the project around the STM32F407G-DISC1 board.
+- Integrated a 4×4 keypad and buzzer.
+- Worked with PIR and ultrasonic sensing modules.
+- Implemented password-based interaction and debugged GPIO/peripheral behaviour.
 
-`Flask` `RNN` `LSTM` `MFCC` `Audio DSP` `NLP` `Python`
+**Technology:** STM32F407 · STM32CubeIDE · Embedded C · GPIO · Keypad · PIR · HC-SR04
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 5. Python Application Projects
 
-### 🧠 Edge ML Classifier
-**MCU-Deployable Inference**
+A collection of practical applications built while learning Python and GUI/web development.
 
-Compact ML model studying accuracy vs. inference trade-off for microcontroller deployment. INT8 quantization, memory footprint analysis targeting bare-metal ESP32 execution.
+- Translator GUI using Tkinter and translation/text-to-speech libraries.
+- Expense Tracker GUI.
+- Flask-based translator application.
 
-`TFLite Micro` `Quantization` `MCU` `Python` `Edge ML` `ESP32`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔌 Peripheral Driver Library *(WIP)*
-**Register-Level Embedded C Drivers**
-
-Building bare-metal UART, SPI, I2C drivers from scratch with layered HAL architecture. ARM assembly routines for time-critical sections. ESP32 + Raspberry Pi compatible.
-
-`Embedded C` `ARM Assembly` `HAL` `UART·SPI·I2C` `ESP32` `RPi`
-
-</td>
-</tr>
-</table>
+**Technology:** Python · Tkinter · Flask · APIs · PIL · gTTS · Matplotlib
 
 ---
 
-## 📊 LeetCode Stats
+## 🧰 Tools & technologies
 
-<p align="center">
-  <a href="https://leetcode.com/u/SHIVA__SINGH07/">
-    <img src="https://leetcard.jacoblin.cool/SHIVA__SINGH07?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" alt="LeetCode Stats Card"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Solved-300%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Strong-Graphs%20%7C%20Trees%20%7C%20Greedy%20%7C%20Arrays-00b8a3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Also-Sliding%20Window%20%7C%20Binary%20Search%20%7C%20Two%20Pointers-60A5FA?style=for-the-badge"/>
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-| Platform | Handle | Highlights |
-|---|---|---|
-| 🟡 **LeetCode** | [SHIVA\_\_SINGH07](https://leetcode.com/u/SHIVA__SINGH07/) | 300+ Solved · Graphs · Trees · Greedy · Arrays |
-| 🔵 **Codeforces** | Active | Contest Participant |
-| 🟢 **GeeksforGeeks** | Active | Regular Contributor |
-| 🟠 **CodeChef** | Active | 50+ Problems |
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🔭 Research Interests
-
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  AI Accelerators          Neuromorphic Computing       Low-Power VLSI        │
-│  Hardware-Aware ML        Edge Intelligence            TFLite Micro          │
-│  Smart Antenna Systems    Embedded Computer Vision     HW-SW Co-Design       │
-│  Multimedia AI            Neural Signal Processing     Firmware Optimization │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+</div>
 
 ---
 
-## 📈 GitHub Analytics
+## 📚 Learning & research direction
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=shivasingh95&show_icons=true&theme=navy&bg_color=0A192F&title_color=64FFDA&text_color=CCD6F6&icon_color=64FFDA&border_color=233554&count_private=true"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivasingh95&layout=compact&theme=navy&bg_color=0A192F&title_color=64FFDA&text_color=CCD6F6&border_color=233554&langs_count=7"/>
-</p>
+I'm building stronger foundations in the core areas of Electronics and Communication while exploring how they connect with intelligent computing.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivasingh95&theme=dark&background=0A192F&ring=64FFDA&fire=FFA116&currStreakLabel=64FFDA&border=233554&stroke=233554"/>
-</p>
+- **VLSI & digital design:** CMOS fundamentals, combinational and sequential logic, FSMs and timing concepts.
+- **Embedded engineering:** Microcontroller peripherals, firmware structure, sensor interfacing and hardware debugging.
+- **Signals & systems:** Signal analysis, transforms, sampling and digital signal processing.
+- **Edge intelligence:** Efficient neural networks, computer vision and deployment on resource-constrained devices.
+- **Research interests:** Hardware-software co-design, embedded vision, low-power intelligent systems and practical AI deployment.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivasingh95&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivasingh95&theme=react-dark&bg_color=0A192F&color=64FFDA&line=64FFDA&point=FFA116&hide_border=true"/>
-</p>
+I'm also preparing for **GATE 2027**, with a focus on strengthening core ECE concepts.
 
 ---
 
-## 🎯 2025 Goals
+## 💻 Coding profiles
 
-- [ ] 🔌 Complete register-level UART, SPI & I2C drivers in Embedded C
-- [ ] ⚙️ Write ARM assembly routines for performance-critical firmware sections
-- [ ] 📡 Design a multiband antenna array and validate in HFSS
-- [ ] 👁️ Deploy a real-time object detection CNN on Raspberry Pi
-- [ ] 🎵 Build audio emotion recognition using MFCC features + LSTM
-- [ ] 🧠 Deploy quantized TFLite model on ESP32 (INT8 inference)
-- [ ] 💡 Design a complete FSM-based system in Verilog/HDL
-- [ ] ⏱️ Implement FreeRTOS task scheduling on ESP32
-- [ ] 📈 Reach 400 LeetCode problems solved
-- [ ] 🌍 Contribute to an open-source embedded / CV project
+- **LeetCode:** [SHIVA__SINGH07](https://leetcode.com/u/SHIVA__SINGH07/)
+- **GitHub:** [shivasingh95](https://github.com/shivasingh95)
+
+I practice problem-solving and data structures alongside my electronics and project work. Visit the profiles for current activity and progress.
 
 ---
 
-## 🤝 Connect
+## 📊 GitHub overview
 
-<p align="center">
-  <a href="mailto:shiva.24bac10057@vitbhopal.ac.in">
-    <img src="https://img.shields.io/badge/Gmail-shiva.24bac10057%40vitbhopal.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/thakur-shiva-singh-173467324">
-    <img src="https://img.shields.io/badge/LinkedIn-Thakur%20Shiva%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/shivasingh95">
-    <img src="https://img.shields.io/badge/GitHub-shivasingh95-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/SHIVA__SINGH07/">
-    <img src="https://img.shields.io/badge/LeetCode-SHIVA__SINGH07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivasingh95&color=64ffda&style=flat-square&label=Profile+Views"/>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivasingh95&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivasingh95&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivasingh95&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"First make it work. Then make it right. Then make it fast."</i><br/>
-  <sub>— the embedded engineer's mantra</sub>
-</p>
+## 🤝 Let's connect
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:112240,100:0A192F&height=120&section=footer"/>
-</p>
+I'm interested in connecting with people working on **embedded systems, VLSI, computer vision, edge AI, electronics research and engineering projects**.
+
+- 📧 Email: [shiva.24bac10057@vitbhopal.ac.in](mailto:shiva.24bac10057@vitbhopal.ac.in)
+- 💼 LinkedIn: [Thakur Shiva Singh](https://www.linkedin.com/in/thakur-shiva-singh-173467324)
+- 💻 GitHub: [shivasingh95](https://github.com/shivasingh95)
+- 🧩 LeetCode: [SHIVA__SINGH07](https://leetcode.com/u/SHIVA__SINGH07/)
+
+<div align="center">
+
+*Learn deeply. Build practically. Keep iterating.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFA6,100:07111F&height=110&section=footer" width="100%" />
+
+</div>
